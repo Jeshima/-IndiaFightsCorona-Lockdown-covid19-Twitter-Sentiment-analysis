@@ -5,6 +5,7 @@
  
  
  SET 1- DEEP LEARNING ALGOTITHMS: 
+ 
  1.CNN -(used 1csv with train_test_split method ) Accuracy-0.73368 
  2.LSTM- (used 2csv file seperate for trainingand testing) Training accuracy-0.9457,loss-0.1605 Testing accuracy-0.6557,loss-0.3442 
  3.FFNN-( used 2csv file seperate for trainingand testing) Training accuracy-0.28,loss-622.3 Testing accuracy-0.14893,loss-141.82 
@@ -15,7 +16,8 @@
  I came to a conclusiom with my understanding Sentiment analysis in tweets can be done efficiently in this order. 
  CNN > LSTM > ANN > FFNN.  
  
- SET 2-MACHINE LEARNING
+ SET 2-MACHINE LEARNING:
+ 
  I did try with Linear Support vector Classifier --1 csv train_test_split method 
  Training accuracy - 0.6666 Testing accuracy(f1score)-0.59471  
  
@@ -23,6 +25,7 @@
  Training accuracy - 0.64 Test accuracy -0.5486  
  
  SET 3- MODEL CLASSIFICATIONS: 
+ 
  I compared my datasets efficiency with 4 models . 
  The accuracies of the model classificatiom are: 
  1.Baseline Model - 62.86% 
