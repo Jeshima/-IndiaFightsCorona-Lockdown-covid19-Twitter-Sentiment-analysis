@@ -24,6 +24,7 @@
  And with Naive bayes classifier--1 csv train_test_split method 
  Training accuracy - 0.64 Test accuracy -0.5486  
  
+ 
  SET 3- MODEL CLASSIFICATIONS: 
  
  I compared my datasets efficiency with 4 models . 
